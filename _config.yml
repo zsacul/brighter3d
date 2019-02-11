@@ -6,12 +6,15 @@ title: Brighter3D rendering plugin for SketchUp
 description: |
   Easily create photorealistic renders<br />
   from your SketchUp scenes<br />
-  with Brighter3D!  
+  with Brighter3D!<br /><br />
+  Now version 3.0.0 ready<br />
+  for SketchUp 2019 released
+
 owner: Brighter3D Software Development Ltd.
-first_published: 2018 # if migrating another site, the year of your first publish
+first_published: 2013-2019 # if migrating another site, the year of your first publish
 email: support@brighter3d.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zsacul.github.io/" # the base hostname & protocol for your site
+url: "https://www.brighter3d.com/" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/Brighter3D
   #github: https://github.com/<username>
