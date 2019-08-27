@@ -7,8 +7,9 @@ description: |
   Easily create photorealistic renders<br />
   from your SketchUp scenes<br />
   with Brighter3D!<br /><br />
-  Now version 3.1.1 ready<br />
-  for SketchUp 2019.2 released
+  Now version 3.1.1 <br />
+  ready for SketchUp 2019.2 <br />
+  released
 
 owner: Brighter3D Software Development Ltd.
 first_published: 2013-2019 # if migrating another site, the year of your first publish
@@ -20,10 +21,9 @@ social:
   #github: https://github.com/<username>
   #linkedin-square: https://linkedin.com/in/<username>
   facebook-official: https://facebook.com/Brighter3D
-  #google-plus-square: https://plus.google.com/u/0/+LukaszPiwowarBrighter3D/posts
-  #https://plus.google.com/+LukaszPiwowarBrighter3D/posts
+  #google-plus-square: 
   #email:
-  #flickr:
+  flickr: https://www.flickr.com/photos/183812616@N07/
   instagram: https://www.instagram.com/brighter3d
   youtube-square: https://www.youtube.com/channel/UCczbXVkENusX3wZKgpzID4Q
   #spotify:
@@ -37,7 +37,7 @@ social:
   #soundcloud:
   #deviantart:
   #angellist:
-  #tumblr-square:
+  tumblr-square: https://brighter3d.tumblr.com/
   #stackexchange:
   #weibo:
   #trello:
