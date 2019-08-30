@@ -1,0 +1,48 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.brighter3d.com/</loc>
+  <lastmod>2019-08-29T02:33:37+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.brighter3d.com/index.html</loc>
+  <lastmod>2019-08-29T02:33:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.brighter3d.com/blog.html</loc>
+  <lastmod>2019-08-29T02:33:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.brighter3d.com/privacypolicy.html</loc>
+  <lastmod>2018-10-04T02:16:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.brighter3d.com/blog2.html</loc>
+  <lastmod>2018-10-04T02:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.brighter3d.com/blog3.html</loc>
+  <lastmod>2018-10-04T02:16:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.brighter3d.com/blog4.html</loc>
+  <lastmod>2018-10-04T02:16:34+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
