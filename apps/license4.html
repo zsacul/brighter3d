@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Brighter3D license manager</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload" onload="b3dReCheck();">
+
+			<header id="header">
+				<a class="logo">Brighter3D license manager</a>		
+			</header>
+		
+			<section class="wrapper">
+				<div class="inner">
+					<header class="special">
+						<h2 class="license_status" id="b3dstatus">License status: checking</h2>						
+						<p id="b3dcomputerid">Computer ID: </p>
+						<p id="b3dversion">Version: </p>
+					</header>
+					<div class="highlights">
+						<section>
+							<div class="content disabledbutton" id="b3dactive" onclick="b3dActivate();">
+								<header readonly>
+									<a href="#" class="icon fa-floppy-o"><span class="label">Icon</span></a>
+									<h3>Activate License</h3>
+								</header>
+								<p>Activate license on this computer.</p>
+							</div>
+						</section>
+						<section>
+							<div class="content disabledbutton" id="b3drevoke" onclick="b3dRevoke();">
+								<header>
+									<a href="#" class="icon fa-paper-plane-o"><span class="label">Icon</span></a>
+									<h3>Revoke License</h3>
+								</header>
+								<p>Remove license from this computer and move it for the other one.</p>
+							</div>
+						</section>
+					</div>
+				</div>
+			</section>
+	
+			<script src="license4.js"></script>
+	</body>
+</html>
