@@ -1576,8 +1576,8 @@ $baseurl: '{{ site.baseurl }}/images';
 			z-index: 1;
 
 			&:before, &:after {
-				@include vendor('transition', 'width 0.85s ease');
-				@include vendor('transition-delay', '0.25s');
+				//@include vendor('transition', 'width 0.5s ease');
+				//@include vendor('transition-delay', '0.05s');
 				background: _palette(fg-bold);
 				content: '';
 				display: block;
@@ -1607,9 +1607,9 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 
 		.more {
-			@include vendor('transition', ('transform 0.75s ease', 'opacity 0.75s ease'));
-			@include vendor('transition-delay', '3.5s');
-			@include vendor('transform', 'translateY(0)');
+			//@include vendor('transition', ('transform 0.75s ease', 'opacity 0.75s ease'));
+			//@include vendor('transition-delay', '0.05s');
+			//@include vendor('transform', 'translateY(0)');
 			border: none;
 			bottom: 0;
 			color: inherit;
@@ -1644,9 +1644,9 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 
 		&:after {
-			@include vendor('pointer-events', 'none');
-			@include vendor('transition', 'opacity #{_duration(fadein)} ease-in-out');
-			@include vendor('transition-delay', '1.25s');
+			//@include vendor('pointer-events', 'none');
+			//@include vendor('transition', 'opacity #{_duration(fadein)} ease-in-out');
+			//@include vendor('transition-delay', '0.05s');
 			content: '';
 			background: _palette(bg);
 			display: block;
