@@ -45,7 +45,7 @@ function start_promo_timer(promoText,endDateText)
 }
 
 let promoText = 
-"<strong>Use<\/strong> BLACK <strong>coupon code<br \/>\
+"<strong>Use<\/strong> CYBER <strong>coupon code<br \/>\
 during purchase <br \/>\
 for 20% off<\/strong>";
 
@@ -53,6 +53,6 @@ for 20% off<\/strong>";
 document.getElementById("promo_text").innerHTML = promoText;
 
 
-start_promo_timer(promoText,"Nov 28, 2020 8:59:59");
+start_promo_timer(promoText,"Dec 5, 2020 8:59:59");
 
 
